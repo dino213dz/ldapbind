@@ -1,2 +1,5 @@
 # ldapbind
-ldapbind will bin unsecure LDAP server
+ldapbind will bind unsecure LDAP servers using "ldapsearch"
+
+USAGE:
+./ldapBindExploit.sh ldap://example.com
